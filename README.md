@@ -1,6 +1,6 @@
 # wraith-devices
 
-> **Authorized use only.** This module is part of [Wraith](https://github.com), an educational security research tool. Do not use against systems without explicit permission. See the [LICENSE](../../LICENSE) for details.
+> **Authorized use only.** This module is part of [Wraith](https://github.com/tilmana/wraith), an educational security research tool. Do not use against systems without explicit permission. See the [LICENSE](../../LICENSE) for details.
 
 Device enumerator module for Wraith.
 
