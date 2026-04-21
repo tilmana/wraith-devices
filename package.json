@@ -1,0 +1,12 @@
+{
+  "name": "@wraith/module-devices",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Device enumerator — cameras, microphones, speakers with permission prompting and attempt tracking",
+  "main": "index.jsx",
+  "dependencies": {
+    "@framework/ui": "workspace:*",
+    "react": "^18.3.1"
+  }
+}
