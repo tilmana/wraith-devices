@@ -30,6 +30,10 @@ Device enumerator module for Wraith.
 | `request-audio` | Prompt `getUserMedia({audio})`, re-enumerate on grant to reveal labels |
 | `request-camera` | Prompt `getUserMedia({video})`, re-enumerate on grant to reveal labels |
 
+## Screenshots
+
+See [demo screenshots](https://github.com/tilmana/wraith#devices-screenshots) in the main Wraith repo.
+
 ## Install
 
 Clone or copy this directory into the Wraith `modules/` folder, run `pnpm install`, and restart the dev server. The framework discovers modules automatically.
